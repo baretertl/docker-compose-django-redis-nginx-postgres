@@ -1,0 +1,4 @@
+web/app_code/*
+postgres/pgdata/*
+nginx/sites-enabled/*
+redis/redisdata/*
